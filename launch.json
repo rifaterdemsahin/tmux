@@ -1,0 +1,11 @@
+{
+    "type": "bashdb",
+    "request": "launch",
+    "name": "Bash-Debug (simplified)",
+    "program": "${file}",
+    "args": [],
+    "env": {},
+    "pathBash": "/bin/bash",
+    "trace": true,
+    "showDebugOutput": true
+}
